@@ -9,10 +9,15 @@ The dependent library for cooperative development of javascript-app
 - javascript
 - library
 - starter
+- template
+
+---
 
 ## Author
 
 [remitot](https://github.com/remitot)
+
+---
 
 ### License
 
