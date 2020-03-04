@@ -4,8 +4,6 @@
 
 The dependent library for cooperative development of javascript-app
 
-UNDER DEVELOPMENT
-
 ## Feature tags
 
 - javascript
